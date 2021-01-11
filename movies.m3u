@@ -1,0 +1,56 @@
+#EXTM3U url-tvg=https://iptvx.one/epg/epg_lite.xml.gz, http://help.telecom.by/_files/TelecomTV/TelecomTVepg/xmltv.zip
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/tv1000.png" tvg-id="tv1000" group-title="Кино", TV 1000
+udp://@233.81.116.83:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/tv1000action.png" tvg-id="tv1000-action" group-title="Кино", TV 1000 Action
+udp://@233.81.116.80:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/tv1000ruskino.png" tvg-id="tv1000-russkoe-kino" group-title="Кино", TV 1000 Русское кино
+udp://@233.81.116.84:1234
+#EXTINF:-1  tvg-logo="https://epg.iptvx.one/icn/kino_xit.png" tvg-id="kinoxit" group-title="Кино", Кинохит
+udp://@233.81.116.25:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/kinomiks.png" tvg-id="kinomiks" group-title="Кино", Киномикс
+udp://@233.81.116.32:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/kinokomedia.png" tvg-id="kinokomedia" group-title="Кино", Кинокомедия
+udp://@233.81.116.116:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/kinoseria.png" tvg-id="kinoseria" group-title="Кино", Киносерия
+udp://@233.81.116.119:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/kinosemia.png" tvg-id="kinosemiya" group-title="Кино", Киносемья
+udp://@233.81.116.159:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/kinosvidanie.png" tvg-id="kinosvidanie" group-title="Кино", Киносвидание
+udp://@233.81.116.181:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/kinopremiera.png" tvg-id="kinopremiera-hd" group-title="Кино", Кинопремьера HD
+udp://@233.81.116.173:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/muzhskoe-kino.png" tvg-id="muzhskoe-kino" group-title="Кино", Мужское кино
+udp://@233.81.116.28:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/nst.png" tvg-id="nst" group-title="Кино", Настоящее страшное ТВ
+udp://@233.81.116.86:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/hollywood.png" group-title="Кино", Hollywood	
+udp://@233.81.116.124:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/sony-scifi.png" tvg-id="sony-scifi" group-title="Кино", Sony Sci-Fi
+udp://@233.81.116.38:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/cosmostv.png" tvg-id="cinema" group-title="Кино", Cinema HD
+udp://@233.81.116.158:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/cinema.png" tvg-id="cinema-ru" group-title="Кино", Cinema
+udp://@233.81.116.92:1234
+
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/mult.png" group-title="Детские", Мульт
+udp://@233.81.116.60:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/karusel.png" group-title="Детские", Карусель
+udp://@233.81.116.183:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/sovmultf.png" tvg-id="sovmultf" group-title="Детские",Советские Мультфильмы
+udp://@233.81.116.156:1234
+
+#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", STR TV
+https://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", Akudji
+https://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", Марс-ТВ
+https://marstv.catcast.tv/content/37033/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", VHS EVGENIY
+https://v2.catcast.tv/content/36251/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", Ужасы EVGENIY
+https://v2.catcast.tv/content/36277/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-id="no_epg_cinema" group-title="Кинозалы", Фантастика SCIFI
+https://v2.catcast.tv/content/38801/index.m3u8
