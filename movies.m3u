@@ -34,7 +34,7 @@ udp://@233.81.116.158:1234
 udp://@233.81.116.92:1234
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/mult.png" group-title="Детские", Мульт
-udp://@233.81.116.60:1234
+http://178.124.183.5:80/hls/5MWF7XUWZI_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/karusel.png" group-title="Детские", Карусель
 udp://@233.81.116.183:1234
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/sovmultf.png" tvg-id="sovmultf" group-title="Детские",Советские Мультфильмы
