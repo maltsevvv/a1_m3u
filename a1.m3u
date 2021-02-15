@@ -142,8 +142,8 @@ http://178.124.183.5/hls/CH_NTVSERIAL_HLS/variant.m3u8
 udp://@233.81.116.34:1234
 #EXTINF:-1 tvg-logo="http://zala.by/sites/default/files/tv_channels/logos/multilandiya_0.jpg" group-title="Детские", Мультиландия	
 udp://@233.81.116.55:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/17e0e65325095f17d7f6_250x250c.png" group-title="Детские", Мульт	
-udp://@233.81.116.60:1234
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/17e0e65325095f17d7f6_250x250c.png" group-title="Детские", Мульт (Zala)	
+http://178.124.183.5:80/hls/5MWF7XUWZI_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/f3a578ff59188fa9a6a0_250x250c.png" group-title="Детские", Nickelodeon	
 udp://@233.81.116.62:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/617ea7603b988ca5a560_250x250c.png" group-title="Детские", Gulli Girl	
