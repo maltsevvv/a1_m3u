@@ -52,5 +52,12 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7h8mcW/image.png",ВСЁ ВКЛЮЧЕНО
 https://autopilot.catcast.tv/content/39161/index.m3u8
-#EXTINF:-1,Ужасы Алексей
+
+#EXTINF:-1,Алексей Ужасы
 https://v2.catcast.tv/content/38798/index.m3u8
+#EXTINF:-1,Алексей Кинотеатр VHS
+https://v2.catcast.tv/content/38791/index.m3u8
+#EXTINF:-1,Алексей Премиум
+https://v2.catcast.tv/content/38792/index.m3u8
+#EXTINF:-1,Алексей VHS
+https://v2.catcast.tv/content/38794/index.m3u8
