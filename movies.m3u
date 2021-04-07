@@ -49,8 +49,6 @@ udp://@233.81.116.15:1234
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cDFHQ8y/21-CTC.png" group-title="Детские", СТС Kids
 http://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
 
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/306c32f8b6dab1c70bd7_250x250c.png" group-title="Кино 1", Movie Classic	
-udp://@233.81.116.41:1234
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/306c32f8b6dab1c70bd7_250x250c.png" group-title="Кино 1", КиноМеню HD	
 udp://@233.81.116.152:1234
 
