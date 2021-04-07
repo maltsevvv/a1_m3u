@@ -55,6 +55,8 @@ https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7h8mcW/image.png",ВСЁ ВКЛЮЧЕНО
 https://autopilot.catcast.tv/content/39161/index.m3u8
 
+#EXTINF:-1,КиноУжас
+http://31.134.132.245:8080/kinoujas/index.m3u8
 #EXTINF:-1,Алексей Ужасы
 https://v2.catcast.tv/content/38798/index.m3u8
 #EXTINF:-1,Алексей Кинотеатр VHS
