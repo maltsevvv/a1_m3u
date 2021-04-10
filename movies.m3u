@@ -42,17 +42,6 @@ udp://@233.81.116.156:1234
 #EXTINF:-1,Кинозал 47 (KINDER TV)
 https://v2.catcast.tv/content/38144/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/ca7d8057be2838a614b7_250x250c.jpg" group-title="Детские", О!
-udp://@233.81.116.61:1234
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/0e3155923cb9ab7259c0_250x250c.png" group-title="Детские", Сказки Зайки	
-udp://@233.81.116.15:1234
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cDFHQ8y/21-CTC.png" group-title="Детские", СТС Kids
-http://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
-
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/306c32f8b6dab1c70bd7_250x250c.png" group-title="Кино 1", КиноМеню HD	
-udp://@233.81.116.152:1234
-
-
 #EXTINF:-1 tvg-logo="tvg-id=no_epg_cinema" group-title="Кинозалы", STR TV
 https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1 tvg-logo="tvg-id=no_epg_cinema" group-title="Кинозалы", Akudji
@@ -63,8 +52,6 @@ http://freeiptv.uk.to:8738/mfolive.m3u8?media=shok
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpGnwc/image.png",УЖАСТИК
 https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C7h8mcW/image.png",ВСЁ ВКЛЮЧЕНО
-https://autopilot.catcast.tv/content/39161/index.m3u8
 
 #EXTINF:-1,КиноУжас
 http://31.134.132.245:8080/kinoujas/index.m3u8
@@ -72,7 +59,3 @@ http://31.134.132.245:8080/kinoujas/index.m3u8
 https://v2.catcast.tv/content/38798/index.m3u8
 #EXTINF:-1,Алексей Кинотеатр VHS
 https://v2.catcast.tv/content/38791/index.m3u8
-#EXTINF:-1,Алексей Премиум
-https://v2.catcast.tv/content/38792/index.m3u8
-#EXTINF:-1,Алексей VHS
-https://v2.catcast.tv/content/38794/index.m3u8
