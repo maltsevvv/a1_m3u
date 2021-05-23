@@ -46,16 +46,10 @@ https://v2.catcast.tv/content/38144/index.m3u8
 https://strtv.at.ua/hls/index.m3u8
 #EXTINF:-1 tvg-logo="tvg-id=no_epg_cinema" group-title="Кинозалы", Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 group-title="КИНО", ШОКИРУЮЩЕЕ HD
-http://freeiptv.uk.to:8738/mfolive.m3u8?media=shok
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JKR946K/SCi-Fi.png",ФАНТАСТИКА Sci-Fi
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jhpGnwc/image.png",УЖАСТИК
 https://autopilot.catcast.tv/content/38896/index.m3u8
 
-#EXTINF:-1,КиноУжас
-http://31.134.132.245:8080/kinoujas/index.m3u8
 #EXTINF:-1,Алексей Ужасы
 https://v2.catcast.tv/content/38798/index.m3u8
-#EXTINF:-1,Алексей Кинотеатр VHS
-https://v2.catcast.tv/content/38791/index.m3u8
