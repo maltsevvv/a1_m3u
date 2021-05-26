@@ -53,3 +53,8 @@ https://autopilot.catcast.tv/content/38896/index.m3u8
 
 #EXTINF:-1,Алексей Ужасы
 https://v2.catcast.tv/content/38798/index.m3u8
+
+#EXTINF:-1 group-title="Кино" tvg-logo="https://backustv.ru/img/ch-1.jpg",BACKUSTV
+http://stream.backustv.ru/content/39837/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://backustv.ru/img/ch-2.jpg",BACKUSTV Страшное
+http://stream.backustv.ru/content/39864/index.m3u8
