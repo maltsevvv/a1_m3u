@@ -1,0 +1,23 @@
+#EXTM3U url-tvg=https://iptvx.one/epg/epg_lite.xml.gz
+#EXTINF:-1,Euronews
+#EXTGRP:Новости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+#EXTINF:-1 ,Известия
+#EXTGRP:Новости
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 ,Интер
+#EXTGRP:Новости
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 ,Первый канал
+#EXTGRP:Новости
+http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
+
+#EXTINF:-1,КХЛ
+#EXTGRP:Спорт
+http://178.124.183.5:80/hls/36H3IDE2WF_HLS/variant.m3u8
+#EXTINF:-1,Беларусь 5
+#EXTGRP:Спорт
+http://178.124.183.5:80/hls/JRKVSUPCP8_HLS/variant.m3u8
+#EXTINF:-1 ,Setanta Sports+
+#EXTGRP:Спорт
+http://195.158.29.129/live_360/live.stream+_360p.m3u8
