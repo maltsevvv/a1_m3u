@@ -8,8 +8,8 @@ http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 ,Первый канал
 #EXTGRP:Новости
 http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_1TV/variant.m3u8?version=2
-#EXTM3U
-#EXTINF:-1, БЕЛСАТ
+#EXTINF:-1,БЕЛСАТ
+#EXTGRP:Новости
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
 
 #EXTINF:-1,КХЛ
