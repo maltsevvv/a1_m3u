@@ -34,7 +34,7 @@ http://178.124.183.5:80/hls/M4K3ZYBPWQ_HLS/variant.m3u8
 http://178.124.183.5:80/hls/ZXUZZKCA6P_HLS/variant.m3u8
 #EXTINF:-1,Euronews
 #EXTGRP:Эфирные
-http://178.124.183.5:80/hls/C5P6YOXJZT_HLS/variant.m3u8
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1,НТВ Беларусь
 #EXTGRP:Эфирные
 http://178.124.183.5:80/hls/DYJ5GH8HOK_HLS/variant.m3u8
