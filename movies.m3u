@@ -33,6 +33,9 @@ udp://@233.81.116.158:1234
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/cinema.png" tvg-id="cinema-ru" group-title="Кино", Cinema
 udp://@233.81.116.92:1234
 
+#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/7dabc4f291fc2b9dee11_250x250c.png" group-title="Научно-популярные", Viasat Explore	
+udp://@233.81.116.103:1234
+
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/mult.png" group-title="Детские", Мульт
 http://178.124.183.5:80/hls/5MWF7XUWZI_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/karusel.png" group-title="Детские", Карусель
