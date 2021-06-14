@@ -35,10 +35,16 @@ udp://@233.81.116.92:1234
 
 #EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/7dabc4f291fc2b9dee11_250x250c.png" group-title="Научно-популярные", Viasat Explore	
 udp://@233.81.116.103:1234
+#EXTINF:-1,71 - Тайны Галактики
+udp://@233.81.116.74:1234
+#EXTINF:0,101 - Космический
+udp://@233.81.116.105:1234
 
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/mult.png" group-title="Детские", Мульт
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/multilandia.png" group-title="Детские",Мультиландия
+udp://@233.81.116.55:1234
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/mult.png" group-title="Детские",Мульт
 http://178.124.183.5:80/hls/5MWF7XUWZI_HLS/variant.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/karusel.png" group-title="Детские", Карусель
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/karusel.png" group-title="Детские",Карусель
 udp://@233.81.116.183:1234
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/sovmultf.png" tvg-id="sovmultf" group-title="Детские",Советские Мультфильмы
 udp://@233.81.116.156:1234
