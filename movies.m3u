@@ -48,7 +48,7 @@ udp://@233.81.116.15:1234
 
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/18042021/banners/40093-607bf3e206188.png",STR TV
 https://strtv.at.ua/hls/index.m3u8
-#EXTINF:-1 tvg-logo="tvg-id=no_epg_cinema",Akudji
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/no_epg_cinema.png",Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/19082020/banners/38801-5f3c466619671.jpg",ФАНТАСТИКА
 https://autopilot.catcast.tv/content/38801/index.m3u8
