@@ -33,13 +33,6 @@ udp://@233.81.116.158:1234
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/cinema.png" tvg-id="cinema-ru" group-title="Кино", Cinema
 udp://@233.81.116.92:1234
 
-#EXTINF:-1 tvg-logo="https://resizer.voka.tv/rosing-voka-production/7dabc4f291fc2b9dee11_250x250c.png" group-title="Научно-популярные", Viasat Explore	
-udp://@233.81.116.103:1234
-#EXTINF:-1,71 - Тайны Галактики
-udp://@233.81.116.74:1234
-#EXTINF:0,101 - Космический
-udp://@233.81.116.105:1234
-
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/multilandia.png" group-title="Детские",Мультиландия
 udp://@233.81.116.55:1234
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/mult.png" group-title="Детские",Мульт
@@ -53,17 +46,18 @@ https://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1,Сказки Зайки
 udp://@233.81.116.15:1234
 
-#EXTINF:-1 tvg-logo="tvg-id=no_epg_cinema" group-title="Кинозалы", STR TV
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/18042021/banners/40093-607bf3e206188.png",STR TV
 https://strtv.at.ua/hls/index.m3u8
-#EXTINF:-1 tvg-logo="tvg-id=no_epg_cinema" group-title="Кинозалы", Akudji
+#EXTINF:-1 tvg-logo="tvg-id=no_epg_cinema",Akudji
 https://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JKR946K/SCi-Fi.png",ФАНТАСТИКА Sci-Fi
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/19082020/banners/38801-5f3c466619671.jpg",ФАНТАСТИКА
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jhpGnwc/image.png",УЖАСТИК
-https://autopilot.catcast.tv/content/38896/index.m3u8
-
-#EXTINF:-1,Алексей Ужасы
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/22052021/banners/38798-60a911b7c17bf.jpg",Ужасы
 https://v2.catcast.tv/content/38798/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/05072020/banners/38710-5f022b2f9e4bb.png",VIP HORROR HD
+https://v2.catcast.tv/content/38710/index.m3u8
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/11092020/banners/37925-5f5ba6091be23.png,Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
 
 #EXTINF:-1 group-title="Кино" tvg-logo="https://backustv.ru/img/ch-1.jpg",BACKUSTV
 http://stream.backustv.ru/content/39837/index.m3u8
@@ -71,5 +65,4 @@ http://stream.backustv.ru/content/39837/index.m3u8
 http://stream.backustv.ru/content/39864/index.m3u8
 
 #EXTINF:-1,БЕЛСАТ
-#EXTGRP:Новости
 http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
