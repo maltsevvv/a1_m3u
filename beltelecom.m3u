@@ -1,4 +1,4 @@
-# EXTM3U url-tvg = "http://epg.it999.ru/edem.xml.gz" source = "& offset = - $ {offset} & utcstart = $ {timestamp}" cache = 500
+# EXTM3U url-tvg = "https://iptvx.one/epg/epg_lite.xml.gz"
 #EXTINF:-1,Беларусь 1
 #EXTGRP:Эфирные
 http://178.124.183.5:80/hls/M52YG9EVYD_HLS/variant.m3u8
@@ -33,7 +33,7 @@ http://178.124.183.5:80/hls/M4K3ZYBPWQ_HLS/variant.m3u8
 #EXTGRP:Эфирные
 http://178.124.183.5:80/hls/ZXUZZKCA6P_HLS/variant.m3u8
 #EXTINF:-1,Euronews
-#EXTGRP:Эфирные
+#EXTGRP:Новостные
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1,НТВ Беларусь
 #EXTGRP:Эфирные
@@ -45,7 +45,7 @@ http://178.124.183.5:80/hls/NCLEFHVZGR_HLS/variant.m3u8
 #EXTGRP:Эфирные
 http://178.124.183.5:80/hls/7MQSYYGHFE_HLS/variant.m3u8
 #EXTINF:-1,ББК
-#EXTGRP:Эфирные
+#EXTGRP:ЭНовостные
 http://178.124.183.5:80/hls/MCEQ4XBTHP_HLS/variant.m3u8
 #EXTINF:-1,TV1000
 #EXTGRP:Кино
