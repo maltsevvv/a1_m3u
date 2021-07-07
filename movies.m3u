@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=https://iptvx.one/epg/epg_lite.xml.gz, http://help.a1.by/_files/TelecomTV/TelecomTVepg/xmltv.zip
+#EXTM3U url-tvg=http://help.a1.by/_files/TelecomTV/TelecomTVepg/xmltv.xml,https://iptvx.one/epg/epg_lite.xml.gz
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/icn/tv1000.png" tvg-id="tv1000" group-title="Кино", TV 1000
 udp://@233.81.116.83:1234
